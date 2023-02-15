@@ -1,0 +1,16 @@
+.box
+{
+
+height:500px;
+width:350px;	
+background-color:pink;
+
+border: 5px double green;
+margin:50px ;
+
+padding-left:50px;
+padding-bottom:100px;
+	
+border-radius:100px 100px 100px 100px;
+
+}

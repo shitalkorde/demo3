@@ -1,0 +1,113 @@
+*{
+	margin:0px;
+	padding:0px;
+}	
+.main
+{
+height:1000px;
+width:1200px;
+background-color:pink;
+margin:auto;
+}
+.header
+{
+height:150px;
+width:1200px;
+background-color:red;	
+}
+.branding
+{
+height:150px;
+width:400px;
+background-color:yellow;
+float:left;	
+}
+.socialmedia
+{
+height:100px;
+width:800px;	
+background-color:blue;
+float:left;	
+}
+.menu
+{
+height:50px;
+width:800px;
+background-color:red;	
+float:left;	
+}
+.menu ul li{
+	float:left;
+	list-style:none;
+	display:block;
+	height:40px;
+	background-color:orange;
+	width:150px;
+	margin-top:5px;
+	margin-left:8px;
+	text-align:center;
+	line-height:40px;
+}
+.menu ul li:hover{
+	background-color:yellow;
+	font-size:30px;
+}
+.container
+{
+height:800px;
+width:1200px;
+background-color:purple;
+}
+.gallary
+{
+height:400px;
+width:1200px;
+background-color:orange;
+}
+.courses
+{
+height:400px;
+width:1200px;
+background-color:purple;	
+}
+.courses a{
+color:black;
+font-size:20px;
+cursor:hover;
+background-color:red;	
+}
+.bootcamp
+{
+height:400px;
+width:300px;
+background-color:pink;
+float:left;	
+
+}
+.cloud
+{
+height:400px;
+width:300px;
+background-color:aqua;
+float:left;
+}
+.machinelearning
+{
+height:400px;
+width:300px;
+background-color:pink;
+float:left;
+}
+.systemdesignandDSA
+{
+height:400px;
+width:300px;
+background-color:aqua;
+float:left;	
+}
+.footer
+{
+height:50px;
+width:1200px;
+background-color:green;	
+}

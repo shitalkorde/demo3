@@ -1,0 +1,55 @@
+<!doctype>
+<html>
+<hrad><title></title>
+</hesd>
+<h1>Karen</h1>
+<body>
+<table border="3">
+
+<tr>
+<td>Monday</td>
+<td>Tuesday</td>
+<td>Wednesday</td>
+<td>Thursday</td>
+<td>Friday</td>
+<td>saturday</td>
+<td>Sundsy</td>
+</tr>
+
+<tr>
+<td>Public Swin</td>
+<td>06:30.10:30</td>
+</tr>
+
+<tr>
+<td>Public Swin</td>
+<td>06:30.09:00</td>
+</tr>
+
+<tr>
+<td>Public Swin</td>
+<td>06:30.09:00</td>
+</tr>
+
+<tr>
+<td>Public Swin</td>
+<td>06:30.11:15</td>
+</tr>
+
+<tr>
+<td>Public Swin</td>
+<td>06:30.09:30</td>
+
+<tr>
+<td>Lane Swin</td>
+<td>08:00.10:30</td>
+</tr>
+</tr>
+<tr>
+<td>Lane Swin</td>
+
+<td>08:0.09:00</td>
+</tr>
+<table>
+</body>
+</html>

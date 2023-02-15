@@ -1,0 +1,10 @@
+*{
+margin:0px;
+padding:0px;
+}
+.main{
+height:1000px;
+width:1200px;
+background-color:yellow;
+margin:auto;
+}

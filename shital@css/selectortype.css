@@ -1,0 +1,38 @@
+.type1{
+height:300px;
+width:400px;
+border:red 2px solid;
+
+}
+
+.type2{
+height:300px;
+width:400px;
+border:blue 2px solid;
+position:relative;
+left:50px;
+}
+
+.type3{
+height:300px;
+width:400px;
+border:green 2px solid;
+}
+
+.sam{
+	color:red;	
+}
+
+/*#sai{
+	border:green 3px solid;
+}*/
+
+p,h2{
+	color:blue;
+}
+ /*{
+	background-color:pink;
+}*/
+h1{
+	background-color:pink;
+}
